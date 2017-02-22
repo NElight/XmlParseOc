@@ -15,4 +15,6 @@
 
 + (FightModel *)fightFromXmlData:(NSData *)xmlData;
 
+//hhah
+
 @end
