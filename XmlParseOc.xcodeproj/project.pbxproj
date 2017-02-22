@@ -43,7 +43,6 @@
 /* Begin PBXFileReference section */
 		3A1EB39E1E5D65020019F2F4 /* XmlParseOc */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = XmlParseOc; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A1EB3A11E5D65020019F2F4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		3A1EB3A81E5D651A0019F2F4 /* xml_content.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = xml_content.xml; sourceTree = "<group>"; };
 		3A1EB3A91E5D65260019F2F4 /* RuntimeUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RuntimeUtil.h; sourceTree = "<group>"; };
 		3A1EB3AA1E5D65260019F2F4 /* RuntimeUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RuntimeUtil.m; sourceTree = "<group>"; };
 		3A1EB3DC1E5D654A0019F2F4 /* GDataXMLNode.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GDataXMLNode.h; sourceTree = "<group>"; };
@@ -114,7 +113,6 @@
 		3A1EB3A01E5D65020019F2F4 /* XmlParseOc */ = {
 			isa = PBXGroup;
 			children = (
-				3A1EB3A81E5D651A0019F2F4 /* xml_content.xml */,
 				3A1EB3A11E5D65020019F2F4 /* main.m */,
 				3A1EB3A91E5D65260019F2F4 /* RuntimeUtil.h */,
 				3A1EB3AA1E5D65260019F2F4 /* RuntimeUtil.m */,
